@@ -40,6 +40,6 @@ This project delivers a 360-degree operational analysis integrating multiple ent
 ### 5. Product & Sales Analysis
 <img width="1443" height="808" alt="HR Analytics" src="https://github.com/user-attachments/assets/ed876b6f-e799-4726-b5ee-670a09061a0a" />
 
-## HOW Download the file 
+## How to download the file
 <img width="1131" height="154" alt="Screenshot 2026-09-19 034607" src="https://github.com/user-attachments/assets/6c75756f-dd3a-4bad-8e53-037a36abcbe6" />
 <img width="1467" height="266" alt="Screenshot 2026-09-19 034618" src="https://github.com/user-attachments/assets/99513606-f00d-4871-94ad-87d61c0b0154" />
